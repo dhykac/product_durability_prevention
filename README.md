@@ -7,11 +7,11 @@ This repository is about FEFO product handling to avoid durability miss on each 
 import pandas as pd
 import numpy as np
 ```
-Dataset to be added soon!
+[Dataset](https://github.com/dhykac/product_durability_prevention/blob/main/EXPORT.XLSX)
 
 ## Objectives
 This repository tried to answer following question :
-- Is there any SLED anomalies on each storage bin?
+- Is there any Shelf Life Expirement Date anomalies on each storage bin?
 - If it is, where should i check it first?
 
 Challenges :
@@ -21,4 +21,4 @@ Challenges :
 - 
 
 # Result Overview
-![Result](https://user-images.githubusercontent.com/92696555/148988273-ef1653ee-d936-47c3-bf36-f068e190fa39.jpeg)
+![Result](https://user-images.githubusercontent.com/92696555/149040691-18563129-1a7a-46c9-a3c8-d21fc06d53b8.PNG)
